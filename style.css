@@ -1,0 +1,45 @@
+body{
+    margin: 12px;
+}
+.topSection{
+    border: 1px solid black;
+    padding: 12px;
+    
+}
+.topSection h1{
+    font-size: xx-large;
+    line-height: 1.2;
+    margin-top: 0px;
+}
+.para{
+    margin-bottom: 0px;
+}
+.topSection a{
+    text-decoration: none;
+}
+.imageSection h2{
+    font-size: xx-large;
+    line-height: 0.1;
+}
+.imageSection img{
+    margin-top: 18px;
+    height: 200px;
+    width: auto;
+}
+.imageSection a{
+    text-decoration: none;
+}
+.triviaSection h2{
+    font-size: xx-large;
+    line-height: 0.1;
+    margin-bottom: 40px;
+}
+.triviaSection ol{
+    padding-left: 0;        
+    margin-left: 0;         
+    list-style-position: inside;
+}
+
+
+
+
